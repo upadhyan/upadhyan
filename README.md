@@ -32,7 +32,7 @@
 <ul>
   <li><a href = "https://github.com/upadhyan/web-scraping">All Webscraping Scripts</a></li>
 </ul>
-<h4 align = "left">Fun Projects</h4>
+<h4 align = "left">:tada:Fun Projects</h4>
 <ul>
   <li> <a href = "https://sentencesplitter.com/">SentenceSplitter.com</a>: An Online Text Readability Assistant 
 </ul>
