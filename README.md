@@ -1,3 +1,10 @@
+<style>
+ul.no-bullets {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+</style>
 ### Hey Everyone
 My name's Nakul Upadhya, a prospective Data Scientist with a passion for Machine Learning and Deep Learning. 
 
@@ -6,7 +13,7 @@ My name's Nakul Upadhya, a prospective Data Scientist with a passion for Machine
 </a> <br/>
 
 ## Languages and Tools
-<ul list-style-type = "none">
+<ul class = "no-bullets">
   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python </li>
   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"> </li>
   <li><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></li>
@@ -18,6 +25,8 @@ My name's Nakul Upadhya, a prospective Data Scientist with a passion for Machine
 </ul>
 <br/>
 💼 I'm currently open to any freelance data analysis and visualization. Contact me via my [email](mailto:nakulupadhya1@gmail.com) 
+
+
 <!--
 **upadhyan/upadhyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
