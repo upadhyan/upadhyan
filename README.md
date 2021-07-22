@@ -1,5 +1,11 @@
 ### Hi there 👋
+My name's Nakul Upadhya, a prospective Data Scientist with a passion for Machine Learning and Deep Learning. 
 
+<a href="https://www.linkedin.com/in/nakulupadhya/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+💼 I'm currently open to any freelance data analysis and visualization. Contact me 
 <!--
 **upadhyan/upadhyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
