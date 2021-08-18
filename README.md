@@ -23,6 +23,7 @@
 <ul>
 <li><a href = "https://github.com/upadhyan/Twitter-Stock-Prediction-Deep-Learning-L2RW"> NLP-Based (Twitter Data) Stock Price Direction CNN Classifier Utilizing Loss Reweighting Training Methods implemented in Pytorch</a></li>
   <li><a href = "https://github.com/upadhyan/Titanic-Kaggle-Competition">Titanic Survivor Prediction using Sci-Kit Learn Tools</a></li>
+  <li><a href = "https://github.com/upadhyan/Tarkington-Conversational-Analysis">Residence Hall Conversation Sentiment Analysis Using flair</a></li>
 </ul>
 <h4 align="left">:1234:ML Regression Projects</h4>
 <ul>
