@@ -26,7 +26,7 @@
   <li><a href = "https://github.com/upadhyan/Tarkington-Conversational-Analysis">Residence Hall Conversation Sentiment Analysis Using flair</a></li>
   <li><a href = "https://github.com/upadhyan/Traffic-Machine-Learning"> Recursive Partioning Algorithm for Predicting Traffic Data using R</a> </li>
 </ul>
-<h4 align="left">Operations Research and Statistics Projects</h4>
+<h4 align="left">:1234:Operations Research and Statistics Projects</h4>
 <ul>
   <li><a href = "https://github.com/upadhyan/Markov-Chain-Tools">Tool Box for calculating qualities of Regular Markov Chains</a></li>
 </ul>
