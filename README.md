@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nakulupadhya1@gmail.com**
 
-- ⚡ Fun fact **I love coffee, but I'm mildly allergic to it.**
+- ⚡ Fun fact **Despite being under 30, in college, and definitely searching for a job, I'm a member of the AARP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
