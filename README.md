@@ -24,7 +24,6 @@
 <li><a href = "https://github.com/upadhyan/Twitter-Stock-Prediction-Deep-Learning-L2RW"> NLP-Based (Twitter Data) Stock Price Direction CNN Classifier Utilizing Loss Reweighting Training Methods implemented in Pytorch</a></li>
   <li><a href = "https://github.com/upadhyan/Titanic-Kaggle-Competition">Titanic Survivor Prediction using Sci-Kit Learn Tools</a></li>
   <li><a href = "https://github.com/upadhyan/Tarkington-Conversational-Analysis">Residence Hall Conversation Sentiment Analysis Using flair</a></li>
-  <li><a href = "https://github.com/upadhyan/Traffic-Machine-Learning"> Recursive Partioning Algorithm for Predicting Traffic Data using R</a> </li>
   <li><a href = "https://github.com/upadhyan/STAT-598-Work">STAT 598 - Graduate Level Machine Learning Class Work</a></li>
 </ul>
 <h4 align="left">:1234:Optimization and Statistics Projects</h4>
