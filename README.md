@@ -32,6 +32,7 @@
   <li><a href = "https://github.com/upadhyan/Markov-Chain-Tools">Tool Box for calculating qualities of Regular Markov Chains</a></li>
   <li><a href = "https://github.com/upadhyan/genetic-simple-knapsack">Evolutionary Approach to the 0-1 Knapsack Problem</a></li>
   <li><a href ="https://github.com/upadhyan/Simplex-Solver"> Linear Program Solver utilizing the Two-Phase Simplex Method </a></li>
+  <li><a href = "https://github.com/upadhyan/NaturalKnapsack">Evolutionary Approach to the Multi-Objective Quadratic Knapsack Problem</a></li>
 </ul>
 <h4 align="left">:globe_with_meridians:Webscraping and Data Collection</h4>
 <ul>
