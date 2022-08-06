@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nakul Upadhya</h1>
-<h3 align="center">A prospective data scientist with a passion for interpreting and understanding human-driven processes through Machine Learning and AI.</h3>
+<h3 align="center">A data scientist with a passion for interpreting and understanding human-driven processes through Machine Learning and AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upadhyan&label=Profile%20views&color=0e75b6&style=flat" alt="upadhyan" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow and ML-Ops**
+- 🌱 I’m currently learning PyTorch and Robust Optimization 
 
-- 📫 How to reach me **nakulupadhya1@gmail.com**
+- 📫 Contact me via email at nakulupadhya1@gmail.com
 
-- ⚡ Fun fact **Despite being under 30, in college, and definitely searching for a job, I'm a member of the AARP**
+- ⚡ Fun fact! Despite being under 30, in college, and definitely searching for a job, I'm a member of the AARP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,12 +33,10 @@
   <li><a href ="https://github.com/upadhyan/Simplex-Solver"> Linear Program Solver utilizing the Two-Phase Simplex Method </a></li>
   <li><a href = "https://github.com/upadhyan/NaturalKnapsack">Evolutionary Approach to the Multi-Objective Quadratic Knapsack Problem</a></li>
 </ul>
-<h4 align="left">:globe_with_meridians:Webscraping and Data Collection</h4>
+
+<h4 align = "left">:tada:Miscellaneous Projects</h4>
 <ul>
-  <li><a href = "https://github.com/upadhyan/web-scraping">All Webscraping Scripts</a></li>
-</ul>
-<h4 align = "left">:tada:Fun Projects</h4>
-<ul>
-  <li> <a href = "https://sentencesplitter.com/">SentenceSplitter.com</a>: An Online Text Readability Assistant 
+  <li> <a href = "https://sentencesplitter.com/">SentenceSplitter.com</a>: An Online Text Readability Assistant</li>
+  <li> <a href = "https://github.com/upadhyan/utiliT">utiliT</a>: A Python package I created to consolidate a lot of the common functions I write in all my code</li>
 </ul>
 
