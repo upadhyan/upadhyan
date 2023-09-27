@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nakul Upadhya</h1>
-<h3 align="center">A data scientist with a passion for interpreting and understanding human-driven processes through Machine Learning and AI.</h3>
+<h3 align="center">A PhD Student at the Mechanical and Industrial Engineering Department at the University of Toronto working with Explainable and Ethical AI in Sequence Models</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upadhyan&label=Profile%20views&color=0e75b6&style=flat" alt="upadhyan" /> </p>
 
-- 🌱 I’m currently learning PyTorch and Robust Optimization 
+- 🌱 Currently researching the application of Soft/Neural Decision Trees in Time-Series Forecasting
 
-- 📫 Contact me via email at nakulupadhya1@gmail.com
-
-- ⚡ Fun fact! Despite being under 30, in college, and definitely searching for a job, I'm a member of the AARP**
+- 📫 Contact me via email at nakulupadhya1@gmail.com or nakul.upadhya@mail.utoronto.ca
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
